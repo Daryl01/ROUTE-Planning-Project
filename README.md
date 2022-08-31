@@ -35,3 +35,5 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
+Successful test should display the following information
+![test](https://user-images.githubusercontent.com/30718789/187648840-3daa4456-efe5-42a0-92fc-c26e444a3a74.PNG)
